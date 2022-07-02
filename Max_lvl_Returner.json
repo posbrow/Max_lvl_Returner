@@ -1,0 +1,19 @@
+{
+  "title": "Max_lvl_Returner",
+  "description": "100 lat temu",
+  "artist": "brak",
+  "author": "brak",
+  "cover": "https://media.discordapp.net/attachments/895278369409744939/992832310368018532/z1.png",
+  "chapters": {
+    "1": {
+      "title": "max_1",
+      "volume": "1",
+      "last_updated": "1656780091",
+      "groups": {
+        "Pos": [
+          "https://media.discordapp.net/attachments/895278369409744939/992832310368018532/z1.png"
+        ]
+      }
+    }
+  }
+}
