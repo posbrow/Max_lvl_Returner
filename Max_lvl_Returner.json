@@ -6,12 +6,23 @@
   "cover": "https://media.discordapp.net/attachments/895278369409744939/992832310368018532/z1.png",
   "chapters": {
     "1": {
-      "title": "max_1",
-      "volume": "1",
-      "last_updated": "1656780091",
+      "title": "1",
+      "volume": "",
+      "last_updated": "1656780526",
       "groups": {
-        "Pos": [
-          "https://media.discordapp.net/attachments/895278369409744939/992832310368018532/z1.png"
+        "": [
+          "https://media.discordapp.net/attachments/895278369409744938/992834132369473657/01.jpg",
+          ""
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1656780657",
+      "groups": {
+        "": [
+          "https://cdn.discordapp.com/attachments/992796477598478442/992797562912374884/02.png"
         ]
       }
     }
