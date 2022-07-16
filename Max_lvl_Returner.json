@@ -339,6 +339,26 @@
           ""
         ]
       }
+    },
+    "27": {
+      "title": "27",
+      "volume": "Część_1",
+      "last_updated": "1657993988",
+      "groups": {
+        "": [
+          "https://media.discordapp.net/attachments/997925037690585149/997925522753466469/01.jpg",
+          "https://media.discordapp.net/attachments/997925037690585149/997925655775821855/02.jpg",
+          "https://media.discordapp.net/attachments/997925037690585149/997925755994505276/03.jpg",
+          "https://media.discordapp.net/attachments/997925037690585149/997925814492463204/04.jpg",
+          "https://media.discordapp.net/attachments/997925037690585149/997926005249421322/05.jpg",
+          "https://media.discordapp.net/attachments/997925037690585149/997926124061478932/06.jpg",
+          "https://media.discordapp.net/attachments/997925037690585149/997926238402400406/07.jpg",
+          "https://media.discordapp.net/attachments/997925037690585149/997926360041390140/08.jpg",
+          "https://media.discordapp.net/attachments/997925037690585149/997926473430220821/09.jpg",
+          "https://media.discordapp.net/attachments/997925037690585149/997926599188025394/10.jpg",
+          "https://media.discordapp.net/attachments/997925037690585149/997926658654883901/11.jpg"
+        ]
+      }
     }
   }
 }
