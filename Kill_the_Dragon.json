@@ -4,5 +4,21 @@
   "artist": "",
   "author": "",
   "cover": "https://media.discordapp.net/attachments/1003030487385776249/1003031217563779173/kill-the-dragon-read-manga-13600.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "0",
+      "volume": "",
+      "last_updated": "1659211683",
+      "groups": {
+        "": [
+          "https://media.discordapp.net/attachments/1003030487385776249/1003030923744383026/01.jpg",
+          "https://media.discordapp.net/attachments/1003030487385776249/1003031562570444900/02.jpg",
+          "https://media.discordapp.net/attachments/1003030487385776249/1003031668019429487/03.jpg",
+          "https://media.discordapp.net/attachments/1003030487385776249/1003031729214333039/04.jpg",
+          "https://media.discordapp.net/attachments/1003030487385776249/1003031940007469158/05.jpg",
+          "https://media.discordapp.net/attachments/1003030487385776249/1003031972320378961/06.jpg"
+        ]
+      }
+    }
+  }
 }
