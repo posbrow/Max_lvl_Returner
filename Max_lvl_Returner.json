@@ -439,6 +439,25 @@
           "https://media.discordapp.net/attachments/1002239965234745375/1002241890344771604/11.jpg"
         ]
       }
+    },
+    "32": {
+      "title": "32",
+      "volume": "Część_1",
+      "last_updated": "1659296302",
+      "groups": {
+        "": [
+          "https://media.discordapp.net/attachments/1003386179850342540/1003386349505749042/01.png",
+          "https://cdn.discordapp.com/attachments/1003386179850342540/1003386555798409328/02.png",
+          "https://cdn.discordapp.com/attachments/1003386179850342540/1003386556154921090/03.png",
+          "https://media.discordapp.net/attachments/1003386179850342540/1003386813035053127/04.png",
+          "https://media.discordapp.net/attachments/1003386179850342540/1003386952478887986/05.png",
+          "https://media.discordapp.net/attachments/1003386179850342540/1003387071253205033/06.png",
+          "https://media.discordapp.net/attachments/1003386179850342540/1003387135371522148/07.png",
+          "https://media.discordapp.net/attachments/1003386179850342540/1003387197652746310/08.png",
+          "https://media.discordapp.net/attachments/1003386179850342540/1003387287721222154/09.png",
+          "https://media.discordapp.net/attachments/1003386179850342540/1003387335322386632/10.png"
+        ]
+      }
     }
   }
 }
