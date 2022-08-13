@@ -513,6 +513,22 @@
           "https://media.discordapp.net/attachments/1007720095059038309/1007721578609524766/09.png"
         ]
       }
+    },
+    "36": {
+      "title": "36",
+      "volume": "Część_1",
+      "last_updated": "1660404295",
+      "groups": {
+        "": [
+          "https://media.discordapp.net/attachments/1008033419890003989/1008033859163660419/01.png",
+          "https://media.discordapp.net/attachments/1008033419890003989/1008034008615104564/02.png",
+          "https://media.discordapp.net/attachments/1008033419890003989/1008034132196077578/03.png",
+          "https://media.discordapp.net/attachments/1008033419890003989/1008034387574657085/04.png",
+          "https://media.discordapp.net/attachments/1008033419890003989/1008034631800602674/05.png",
+          "https://media.discordapp.net/attachments/1008033419890003989/1008034828765106206/06.png",
+          "https://media.discordapp.net/attachments/1008033419890003989/1008034898239553576/07.png"
+        ]
+      }
     }
   }
 }
